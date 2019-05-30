@@ -1,8 +1,6 @@
 # zoo-application
 
-I have created a spring boot application to display output in the console.
-
-There are three HTTP request to serve the features described in the Assignment which are mentioned below-
+I have created a spring boot application in java 8.
 
 Steps to run this application-
 1. git clone the project.
@@ -14,6 +12,8 @@ If you see this message in the console:
 <i>welcome to the zoo!</i><br />
 
 You have successfully launched the application and you are all set to view some animals and their friendship stories.
+
+<b><i>There are three HTTP request to serve the features described in the Assignment which are mentioned below-</i></b>
 
 ## Display list of all animals with their properties and friends' names. (HTTP GET REQUEST)
 
