@@ -9,8 +9,8 @@ Application will run at localhost 8080.
 
 To test the application, run http://localhost:8080 from the console.
 If you see this message in the console:
-<i>welcome to the zoo!</i><br />
 
+<i>welcome to the zoo!</i><br />
 You have successfully launched the application and you are all set to view some animals and their friendship stories.
 
 <b><i>There are three HTTP request to serve the features described in the Assignment which are mentioned below-</i></b>
