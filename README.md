@@ -1,6 +1,8 @@
 # zoo-application
 
-This application runs locally with the command 'mvn clean spring-boot:run'
+I have created a spring boot application to display output in the console.
+
+There are three HTTP request to serve the features described in the Assignment which are mentioned below-
 
 Steps to run this application-
 1. git clone the project.
