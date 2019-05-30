@@ -1,6 +1,7 @@
 # zoo-application
 
 This application runs locally with the command 'mvn clean spring-boot:run'
+
 Steps to run this application-
 1. git clone the project.
 2. run the command 'mvn clean spring-boot:run' from the root folder of the project in the terminal.
