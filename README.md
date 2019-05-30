@@ -24,8 +24,8 @@ EndPoint url : http://localhost:8080/api/v1/alterFriendship
 
 This url display the friendship status of any one animal with the other. For eg- 
 
-"Dog one has lost friendship with Chicken one; Dog one has
-established a friendship with Parrot two."
+<i>"Dog one has lost friendship with Chicken one; Dog one has
+established a friendship with Parrot two."</i>
 
 Here Dog one and Parrot two are picked up randomly from the list of animals. 
 
@@ -37,4 +37,4 @@ In a single session of the application, this list will be updated according to t
 
 EndPoint url : http://localhost:8080/exit
 
-This will close the Spring boot application. Hence ""Closing the zoo!" will be printed in the terminal .
+This will close the Spring boot application. Hence <i>"Closing the zoo!"</i> will be printed in the terminal .
