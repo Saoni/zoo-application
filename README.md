@@ -7,7 +7,7 @@ Steps to run this application-
 2. run the command 'mvn clean spring-boot:run' from the root folder of the project in the terminal.
 Application will run at localhost 8080.
 
-To test the application, run http://localhost:8080 from the console.
+To test the application, fire up Postman or run http://localhost:8080 from the console.
 If you see this message in the console:
 
 <i>welcome to the zoo!</i><br />
